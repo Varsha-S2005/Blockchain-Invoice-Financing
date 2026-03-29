@@ -1,0 +1,13 @@
+{
+  "name": "invoice-finance-chaincode",
+  "version": "1.0.0",
+  "description": "Blockchain Invoice Financing Smart Contract",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "fabric-contract-api": "^2.5.0",
+    "fabric-shim": "^2.5.0"
+  }
+}
